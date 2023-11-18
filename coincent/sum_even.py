@@ -5,5 +5,4 @@ def sum_even_numbers(num_list):
             sum += num
     return sum
 
-# example usage
 print(sum_even_numbers([1, 2, 3, 4, 5, 6]))
